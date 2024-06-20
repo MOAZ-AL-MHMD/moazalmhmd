@@ -1,0 +1,132 @@
+header {
+  width: 97%;
+  position: fixed;
+  z-index: 999;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 20px;
+  background-color: #ff0000;
+}
+.a {
+  text-decoration: none;
+  color: #66ff00;
+  text-transform: uppercase;
+  font-weight: 700;
+  font-size: 1.8em;
+}
+.nav a {
+  color: black;
+  text-decoration: none;
+  font-size: 1.8em;
+  padding: 0.8em;
+  font-weight: 500;
+}
+.ww {
+  padding-right: 10px;
+}
+.nav a:hover {
+  color: gold;
+}
+#ee {
+  height: 50px;
+}
+#rr {
+  height: 44px;
+}
+section {
+  padding: 100px 20px;
+}
+.main {
+  padding-left: 10px;
+  width: 100%;
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  background: url(pr.jpg) no-repeat;
+  background-size: contain;
+  background-position: left;
+}
+.main h2 {
+  color: rgb(15, 24, 186);
+  font-weight: 100;
+  font-size: 20px;
+}
+.main h2 span {
+  font-size: 16px;
+  display: inline-block;
+  margin-top: 8px;
+}
+.main h3 {
+  color: rgb(255, 227, 65);
+  font-size: 1.3em;
+  font-weight: 900;
+  margin-bottom: 12px;
+}
+.sd {
+  display: inline-block;
+  color: red;
+  letter-spacing: 3px;
+  padding: 8px;
+  margin-bottom: 22px;
+  background-color: rgb(42, 252, 0);
+  text-decoration: none;
+  font-size: 15px;
+  border-radius: 30px;
+
+  transition: 0.7s ease;
+}
+.sd:hover {
+  background-color: black;
+  transform: scale(1.1);
+}
+.dd:hover {
+  cursor: grab;
+}
+
+.hr {
+  display: flex;
+  justify-content: center;
+  color: rgb(64, 255, 0);
+  font-weight: 800;
+  font-size: 30px;
+  padding-bottom: 8px;
+}
+
+#www {
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+.co {
+  background-color: #00ccff91;
+  width: 150px;
+  box-shadow: 0 5px 50px 40px rgba(255, 0, 0, 0.529) inset;
+  border-radius: 10px;
+  padding: 6px;
+  margin: 50px;
+  transition: 0.7s ease;
+}
+.co:hover {
+  transform: scale(1.1);
+}
+.in {
+  text-align: center;
+  color: aqua;
+}
+.in h3 {
+  color: aqua;
+  font-size: 1.5em;
+  font-weight: 800;
+  margin: 8px;
+}
+
+.aaa {
+  display: flex;
+}
+.ada {
+}
+.asad {
+  text-decoration: none;
+}
