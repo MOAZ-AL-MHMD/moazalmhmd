@@ -130,3 +130,14 @@ section {
 .asad {
   text-decoration: none;
 }
+
+@media screen and (max-width: 550px){
+
+
+  header
+  {
+
+  font-size: 12px;
+  width: 88%;
+}
+}
