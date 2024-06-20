@@ -43,12 +43,12 @@ section {
   min-height: 100vh;
   display: flex;
   align-items: center;
-  background: url(pr.jpg) no-repeat;
+  background:rgba(255, 166, 0, 0.465) url(pr.jpg) no-repeat center top ;
   background-size: contain;
   background-position: left;
 }
 .main h2 {
-  color: rgb(15, 24, 186);
+  color: rgb(255, 255, 255);
   font-weight: 100;
   font-size: 20px;
 }
@@ -134,10 +134,47 @@ section {
 @media screen and (max-width: 990px){
 
 
+
+  .main {
+    padding-top: 110px;
+    font-size: 3px;
+  }
+
+#zxc{
+  font-size: 10px;
+}
+
+  #rew{
+    font-weight: 900;
+    font-size: 20px;
+  }
+
   header
   {
-
-  font-size: 12px;
+  
+#wwww{
+  padding-left: 0px;
+}
+  font-size: 9px;
   width: 88%;
+  padding: 7px;
 }
+
+#af{
+
+font-size: 10px;
+
 }
+
+.dd{
+display: inline-block;
+margin-top:  -30px;
+font-weight: 0;
+font-size: 0px;
+ 
+
+}
+
+
+}
+
